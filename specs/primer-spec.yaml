@@ -1,0 +1,7 @@
+Spec: "Sistema de préstamos de biblioteca"
+Entities:
+  - Estudiante: nombre, apellido
+  - Libro: título
+UseCases:
+  - Prestar libro: estudiante + libro → fecha límite
+
