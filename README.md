@@ -1,4 +1,4 @@
-# 📚 BibliotecaSD - Proyecto con Specs y WinForms
+#BibliotecaSD - Proyecto con Specs y WinForms
 
 Este repositorio contiene el proyecto **BibliotecaSD**, desarrollado como parte de la práctica de programación avanzada.  
 Incluye especificaciones (SSD y Specs), un pipeline de integración continua con GitHub Actions, y una aplicación ejecutable en **Windows Forms**.
