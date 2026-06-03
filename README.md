@@ -1,5 +1,20 @@
-# biblioteca-sdd
-Proyecto de simulación en C# con Spec Driven Development
+# 📚 BibliotecaSD - Proyecto con Specs y WinForms
+
+Este repositorio contiene el proyecto **BibliotecaSD**, desarrollado como parte de la práctica de programación avanzada.  
+Incluye especificaciones (SSD y Specs), un pipeline de integración continua con GitHub Actions, y una aplicación ejecutable en **Windows Forms**.
+
+---
+
+## 🚀 Funcionalidad
+La aplicación permite:
+- Registrar préstamos de libros a estudiantes.
+- Visualizar los préstamos registrados en un formulario.
+- Interactuar mediante una interfaz gráfica sencilla (WinForms).
+
+---
+
+## 📂 Estructura del repositorio
+
 ## Flujo de trabajo
 
 1. **Especificaciones**  
@@ -22,3 +37,13 @@ Proyecto de simulación en C# con Spec Driven Development
 5. **Documentación**  
    - Las especificaciones y el flujo de trabajo se mantienen actualizados en este repositorio.
 Pipeline activado con GitHub Actions 🚀
+
+---
+
+## ⚙️ Ejecución del proyecto
+
+### Opción 1: Consola
+1. Abre una terminal en la carpeta del proyecto.
+2. Ejecuta:
+   ```bash
+   dotnet run --project ./BibliotecaSD.WinForms/BibliotecaSD.WinForms.csproj
