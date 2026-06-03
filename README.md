@@ -21,3 +21,5 @@ Proyecto de simulación en C# con Spec Driven Development
 
 5. **Documentación**  
    - Las especificaciones y el flujo de trabajo se mantienen actualizados en este repositorio.
+   - Proyecto validado con GitHub Actions ✅
+
