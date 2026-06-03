@@ -19,11 +19,13 @@ jobs:
         with:
           dotnet-version: '8.0.x'
 
+      # Compilar el proyecto principal
       - name: Restore dependencies
-        run: dotnet restore ./specs/src
+        run: dotnet restore ./specs/src/BibliotecaSD.csproj
 
       - name: Build
-        run: dotnet build ./specs/src --no-restore
+        run: dotnet build ./specs/src/BibliotecaSD.csproj --no-restore
 
+      # Ejecutar pruebas unitarias
       - name: Test
-        run: dotnet test ./specs/src --no-build --verbosity normal
+        run: dotnet test ./specs/tests/BibliotecaSD.Tests.csproj --no-build --verbosity normal
