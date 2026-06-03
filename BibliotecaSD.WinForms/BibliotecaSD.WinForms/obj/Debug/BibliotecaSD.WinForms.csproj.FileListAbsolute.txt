@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Proyectos PA 2026\BibliotecaSD.WinForms\BibliotecaSD.WinForms\bin\Debug\BibliotecaSD.WinForms.exe.config
+C:\Users\USER\source\repos\Proyectos PA 2026\BibliotecaSD.WinForms\BibliotecaSD.WinForms\bin\Debug\BibliotecaSD.WinForms.exe
+C:\Users\USER\source\repos\Proyectos PA 2026\BibliotecaSD.WinForms\BibliotecaSD.WinForms\bin\Debug\BibliotecaSD.WinForms.pdb
+C:\Users\USER\source\repos\Proyectos PA 2026\BibliotecaSD.WinForms\BibliotecaSD.WinForms\obj\Debug\BibliotecaSD.WinForms.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Proyectos PA 2026\BibliotecaSD.WinForms\BibliotecaSD.WinForms\obj\Debug\BibliotecaSD.WinForms.Form1.resources
+C:\Users\USER\source\repos\Proyectos PA 2026\BibliotecaSD.WinForms\BibliotecaSD.WinForms\obj\Debug\BibliotecaSD.WinForms.Properties.Resources.resources
+C:\Users\USER\source\repos\Proyectos PA 2026\BibliotecaSD.WinForms\BibliotecaSD.WinForms\obj\Debug\BibliotecaSD.WinForms.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Proyectos PA 2026\BibliotecaSD.WinForms\BibliotecaSD.WinForms\obj\Debug\BibliotecaSD.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Proyectos PA 2026\BibliotecaSD.WinForms\BibliotecaSD.WinForms\obj\Debug\BibliotecaSD.WinForms.exe
+C:\Users\USER\source\repos\Proyectos PA 2026\BibliotecaSD.WinForms\BibliotecaSD.WinForms\obj\Debug\BibliotecaSD.WinForms.pdb
