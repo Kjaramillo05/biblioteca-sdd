@@ -5,7 +5,7 @@ Incluye especificaciones (SSD y Specs), un pipeline de integración continua con
 
 ---
 
-## 🚀 Funcionalidad
+## Funcionalidad
 La aplicación permite:
 - Registrar préstamos de libros a estudiantes.
 - Visualizar los préstamos registrados en un formulario.
@@ -13,7 +13,7 @@ La aplicación permite:
 
 ---
 
-## 📂 Estructura del repositorio
+## Estructura del repositorio
 
 ## Flujo de trabajo
 
@@ -37,13 +37,3 @@ La aplicación permite:
 5. **Documentación**  
    - Las especificaciones y el flujo de trabajo se mantienen actualizados en este repositorio.
 Pipeline activado con GitHub Actions 🚀
-
----
-
-## ⚙️ Ejecución del proyecto
-
-### Opción 1: Consola
-1. Abre una terminal en la carpeta del proyecto.
-2. Ejecuta:
-   ```bash
-   dotnet run --project ./BibliotecaSD.WinForms/BibliotecaSD.WinForms.csproj
